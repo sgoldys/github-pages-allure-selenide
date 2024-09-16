@@ -15,6 +15,9 @@ jobs:
         ref: gh-pages
         path: gh-pages
 
+    - name: test
+      run: ls -a
+
     - name: Build test report
       uses: simple-elf/allure-report-action@v1.9
       if: always()
