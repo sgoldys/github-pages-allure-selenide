@@ -2,8 +2,8 @@ name: allure-report CI
 
 on: 
   push:
-    paths:
-      - 'allure-results/**.json'
+    branches:
+      - gh-pages
 
 jobs:
   build:
