@@ -16,7 +16,7 @@ jobs:
         path: gh-pages
 
     - name: test
-      run: ls -a
+      run: cd gh-pages && ls -a
 
     - name: Build test report
       uses: simple-elf/allure-report-action@v1.9
