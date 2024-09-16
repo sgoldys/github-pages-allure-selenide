@@ -1,9 +1,6 @@
 name: allure-report CI
 
-on: 
-  push:
-    branches:
-      - gh-pages
+on: workflow_call
 
 jobs:
   build:
