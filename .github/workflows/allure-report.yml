@@ -1,6 +1,9 @@
 name: allure-report CI
 
-on: push
+on: 
+  push:
+    paths:
+      - 'allure-results/**.json'
 
 jobs:
   build:
