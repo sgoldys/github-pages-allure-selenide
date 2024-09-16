@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 16 06:48:05 GMT 2024","Mon Sep 16 06:48:10 GMT 2024","5732","","test.desktop.CreateItemTest","","test.desktop.CreateItemTest","shouldCreateItemWithRequiredFieldOnly","Create item with required 'description' field",""
+"passed","Mon Sep 16 06:48:10 GMT 2024","Mon Sep 16 06:48:16 GMT 2024","6078","","test.desktop.CreateItemTest","","test.desktop.CreateItemTest","shouldCreateItem","Create item",""
+"passed","Mon Sep 16 06:47:57 GMT 2024","Mon Sep 16 06:48:05 GMT 2024","7829","","test.desktop.DeleteItemTest","","test.desktop.DeleteItemTest","shouldDeleteItem","Delete item",""
+"passed","Mon Sep 16 06:48:17 GMT 2024","Mon Sep 16 06:48:21 GMT 2024","4815","","test.desktop.ItemInfoTest","","test.desktop.ItemInfoTest","shouldGetItemInfo","Get Item info",""
+"passed","Mon Sep 16 06:47:44 GMT 2024","Mon Sep 16 06:47:57 GMT 2024","12634","","test.desktop.EditItemTest","","test.desktop.EditItemTest","shouldEditItem","Edit item",""
