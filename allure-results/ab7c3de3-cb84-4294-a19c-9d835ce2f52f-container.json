@@ -1,1 +1,0 @@
-{"uuid":"ab7c3de3-cb84-4294-a19c-9d835ce2f52f","name":"DeleteItemTest","children":["b2b872c9-3b7d-4df5-8627-d4a42431abd0"],"befores":[],"afters":[{"name":"afterAll","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1728113242389,"stop":1728113242389}],"start":1728113234051,"stop":1728113242389}
